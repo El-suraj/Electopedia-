@@ -7,6 +7,7 @@ import Home from './pages/Home'
 import Learn from './pages/Learn'
 import Topic from './pages/Topic'
 import Settings from './pages/Settings'
+import { Analytics } from "@vercel/analytics/next"
 
 // ─── Scroll to top on route change ────────────────────────────────────────────
 function ScrollToTop() {
@@ -30,6 +31,7 @@ function AppRoutes() {
           <Route path="/settings" element={<Settings />} />
           {/* Catch-all → Home */}
           <Route path="*" element={<Home />} />
+          <Analytics />
         </Routes>
       </div>
     </Layout>

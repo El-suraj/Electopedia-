@@ -17,15 +17,15 @@
       },
       "summary": {
         "en": "You must be 18 years old and a Nigerian citizen to vote. You also need to be registered and have your Permanent Voter's Card (PVC).",
-        "ha": "Dole ne ka kai shekara 18 kuma ka zama ɗan ƙasar Najeriya don zaɓe. Kuna kuma buƙatar rajistawa da samun Katin Masu Zaɓe na Dindindin (PVC)."
+        "ha": "Dole ne ka kai shekara 18 kuma ka zama ɗan ƙasar Najeriya don zaɓe. Kuna kuma buƙatar rijistawa da samun Katin Masu Zaɓe na Dindindin (PVC)."
       },
       "explanation": {
         "en": "Voting is a fundamental right for every Nigerian citizen who meets these requirements:\n\n**Age**: You must be at least 18 years old at the time voter registration closes.\n\n**Citizenship**: You must be a Nigerian citizen — either by birth or naturalization.\n\n**Registration**: You must have registered with INEC (Independent National Electoral Commission). Registration is free.\n\n**PVC**: You must collect your Permanent Voter's Card. This is your proof of registration and your ticket to vote.\n\n**Residency**: You vote at the polling unit in the area where you registered, not where you currently live.",
-        "ha": "Zaɓe haƙƙi ne na asali ga kowane ɗan ƙasar Najeriya wanda ya cika waɗannan sharuɗɗa:\n\n**Shekaru**: Dole ne ka kai aƙalla shekara 18 lokacin da rajistar masu zaɓe ta rufe.\n\n**Ɗan ƙasa**: Dole ne ka zama ɗan ƙasar Najeriya — ko ta haihuwa ko ta ɗaukar ƙasa.\n\n**Rajista**: Dole ne ka yi rajista tare da INEC (Hukumar Zaɓen Kasa mai zaman kanta). Rajista kyauta ce.\n\n**PVC**: Dole ne ka karɓi Katin Masu Zaɓe na Dindindin. Wannan shi ne tabbatarwa na rajistarka kuma tikiti naka na zaɓe.\n\n**Mazaunin gida**: Kuna zaɓe a rumfar zaɓe a yankin da kuka yi rajista, ba inda kuke zaune a yanzu ba."
+        "ha": "Zaɓe haƙƙi ne na asali ga kowane ɗan ƙasar Najeriya wanda ya cika waɗannan sharuɗɗa:\n\n**Shekaru**: Dole ne ka kai aƙalla shekara 18 lokacin da rijistar masu zaɓe ta rufe.\n\n**Ɗan ƙasa**: Dole ne ka zama ɗan ƙasar Najeriya — ko ta haihuwa ko ta ɗaukar ƙasa.\n\n**rijista**: Dole ne ka yi rijista tare da INEC (Hukumar Zaɓen Kasa mai zaman kanta). rijista kyauta ce.\n\n**PVC**: Dole ne ka karɓi Katin Masu Zaɓe na Dindindin. Wannan shi ne tabbatarwa na rijistarka kuma tikiti naka na zaɓe.\n\n**Mazaunin gida**: Kuna zaɓe a rumfar zaɓe a yankin da kuka yi rijista, ba inda kuke zaune a yanzu ba."
       },
       "keyFacts": {
         "en": ["Minimum age: 18 years", "Must hold a valid PVC", "Registration with INEC is free", "You vote where you registered, not where you live now"],
-        "ha": ["Mafi ƙarancin shekaru: 18", "Dole ka riƙe PVC mai inganci", "Rajista tare da INEC kyauta ce", "Kuna zaɓe inda kuka yi rajista, ba inda kuke zaune yanzu ba"]
+        "ha": ["Mafi ƙarancin shekaru: 18", "Dole ka riƙe PVC mai inganci", "rijista tare da INEC kyauta ce", "Kuna zaɓe inda kuka yi rijista, ba inda kuke zaune yanzu ba"]
       }
     },
     {
@@ -36,7 +36,7 @@
       "lawIds": ["secrecy_of_ballot"],
       "title": {
         "en": "Your Vote is Secret",
-        "ha": "Zaɓenku Na Sirri Ne"
+        "ha": "Zaɓenka Sirri Ne"
       },
       "summary": {
         "en": "No one — not your employer, family member, or political party — has any right to know how you voted. Your vote is protected by law.",
@@ -48,7 +48,7 @@
       },
       "keyFacts": {
         "en": ["Your vote is legally secret", "No one can force you to reveal your vote", "Vote buying is illegal — report it", "Election officials must also protect your secrecy"],
-        "ha": ["Zaɓenku na sirri ne ta doka", "Babu wanda zai tilasta ka bayyana zaɓenku", "Siyan kuri'a haramun ne — ranar sa", "Jami'an zaɓe dole su kare sirrinku"]
+        "ha": ["Zaɓenka sirri ne a dokance", "Babu wanda zai tilasta ka bayyana zaɓenka", "Siyan kuri'a haramun ne — Ku shigar da korafi akai", "Jami'an zaɓe dole su kare sirrinku"]
       }
     },
     {
@@ -63,15 +63,15 @@
       },
       "summary": {
         "en": "Your Permanent Voter's Card (PVC) is the only document that allows you to vote. Register with INEC and collect your PVC before the deadline.",
-        "ha": "Katin Masu Zaɓe na Dindindin (PVC) shi ne takardar da ta ba ka damar zaɓe. Yi rajista tare da INEC ka karɓi PVC ɗinka kafin ƙarshen lokaci."
+        "ha": "Katin Masu Zaɓe na Dindindin (PVC) shi ne takardar da ta ba ka damar zaɓe. Yi rijista tare da INEC ka karɓi PVC ɗinka kafin ƙarshen lokaci."
       },
       "explanation": {
         "en": "The Permanent Voter's Card (PVC) is your most important document as a voter in Nigeria.\n\n**How to register**:\n1. Visit your nearest INEC office or registration centre\n2. Bring a valid form of ID (birth certificate, national ID, passport, etc.)\n3. Your biometric data (fingerprints and photo) will be captured\n4. You will receive a Temporary Voter's Slip\n5. Return later to collect your PVC\n\n**What if I lost my PVC?**\nVisit any INEC office to request a replacement. You'll need to provide your details and may be re-captured.\n\n**Key deadlines**:\n- Voter registration closes well before election day\n- PVC collection has its own deadline — don't miss it!\n- Check inec.gov.ng for current dates\n\n**Transfer of registration**: If you moved, you can transfer your registration to your new area before the deadline.",
-        "ha": "Katin Masu Zaɓe na Dindindin (PVC) shine takardarka mafi muhimmanci a matsayinka na mai zaɓe a Najeriya.\n\n**Yadda ake rajista**:\n1. Ziyarci ofishin INEC mafi kusa ko cibiyar rajista\n2. Kawo takardar shaida mai inganci (takardar haihuwa, ID ta ƙasa, fasfo, da sauransu)\n3. Za a ɗauko bayananku na biometric (yatsun hannu da hoto)\n4. Za a ba ka Ragar Mai Zaɓe na Wucin Gadi\n5. Koma daga baya don karɓar PVC ɗinka\n\n**Idan na rasa PVC na?**\nZiyarci ofishin INEC duk inda yake don neman maye gurbi. Za ka buƙaci bayar da bayananku kuma ana iya sake ɗaukar ku.\n\n**Ƙarshen lokaci masu muhimmanci**:\n- Rajistar masu zaɓe tana rufe da kyau kafin ranar zaɓe\n- Karɓar PVC yana da ƙarshen lokaci nasa — kada ka rasa shi!\n- Bincika inec.gov.ng don kwanakin yanzu\n\n**Canja rajista**: Idan ka koma, za ka iya canja rajistarku zuwa yankin sabon ka kafin ƙarshen lokaci."
+        "ha": "Katin Masu Zaɓe na Dindindin (PVC) shine takardarka mafi muhimmanci a matsayinka na mai zaɓe a Najeriya.\n\n**Yadda ake rijista**:\n1. Ziyarci ofishin INEC mafi kusa ko cibiyar rijista\n2. Kawo takardar shaida mai inganci (takardar haihuwa, ID ta ƙasa, fasfo, da sauransu)\n3. Za a ɗauko bayananku na biometric (yatsun hannu da hoto)\n4. Za a ba ka Ragar Mai Zaɓe na Wucin Gadi\n5. Koma daga baya don karɓar PVC ɗinka\n\n**Idan na rasa PVC na?**\nZiyarci ofishin INEC duk inda yake don neman maye gurbi. Za ka buƙaci bayar da bayananku kuma ana iya sake ɗaukar ku.\n\n**Ƙarshen lokaci masu muhimmanci**:\n- rijistar masu zaɓe tana rufe da kyau kafin ranar zaɓe\n- Karɓar PVC yana da ƙarshen lokaci nasa — kada ka rasa shi!\n- Bincika inec.gov.ng don kwanakin yanzu\n\n**Canja rijista**: Idan ka koma, za ka iya canja rijistarku zuwa yankin sabon ka kafin ƙarshen lokaci."
       },
       "keyFacts": {
         "en": ["PVC is mandatory to vote — no exceptions", "Registration with INEC is completely free", "Lost PVC can be replaced at any INEC office", "Registration transfers are allowed before deadlines"],
-        "ha": ["PVC tilas ne don zaɓe — babu keɓancewar", "Rajista tare da INEC kyauta ce gaba ɗaya", "Ana iya maye gurbin PVC da aka rasa a kowane ofishin INEC", "Ana ba da izinin canja rajista kafin ƙarshen lokaci"]
+        "ha": ["PVC tilas ne don zaɓe — babu keɓancewar", "rijista tare da INEC kyauta ce gaba ɗaya", "Ana iya maye gurbin PVC da aka rasa a kowane ofishin INEC", "Ana ba da izinin canja rijista kafin ƙarshen lokaci"]
       }
     },
     {
@@ -159,11 +159,11 @@
       },
       "explanation": {
         "en": "Participating in democracy doesn't stop at voting — you can also run for office yourself.\n\n**Requirements to run for the House of Representatives**:\n- Must be a Nigerian citizen by birth\n- Must be at least 25 years old\n- Must have a minimum of School Certificate (WAEC/NECO) or equivalent\n- Must be a registered member of a political party\n- Must be sponsored/nominated by that party\n- Must not be under any legal disqualification (e.g., criminal conviction)\n\n**Requirements for Senate**: Age 35+, same citizenship and education requirements.\n\n**Requirements for President**: Age 40+, secondary school education minimum, Nigerian citizen by birth.\n\n**Requirements for Governor**: Age 35+, secondary school education minimum, Nigerian citizen by birth.\n\n**How to start**:\n1. Register with a political party\n2. Contest the party's primary election\n3. If you win the primary, your party sponsors you for the general election\n4. File necessary forms with INEC",
-        "ha": "Shiga dimokuradiyya baya tsayawa a zaɓe — za ku iya tsayawa takarar ofishi da kanku.\n\n**Sharuɗɗan tsayawa takarar Majalisar Wakilai**:\n- Dole ne ka zama ɗan ƙasar Najeriya ta haihuwa\n- Dole ne ka kai aƙalla shekara 25\n- Dole ne ka sami aƙalla Takardar Shaida ta Makaranta (WAEC/NECO) ko daidai da ita\n- Dole ne ka zama ɗan jam'iyyar siyasa da aka yi rajista\n- Dole ne jam'iyyar ta ɗauke ka/ta zaɓe ka\n- Dole ne ba ka ƙarƙashin duk wata hana ta doka ba (misali, hukuncin laifi)\n\n**Sharuɗɗan Majalisar Dattawa**: Shekaru 35+, sharuɗɗan ɗan ƙasa da ilimi iri ɗaya.\n\n**Sharuɗɗan Shugaban Ƙasa**: Shekaru 40+, aƙalla ilimin makarantar sakandare, ɗan ƙasar Najeriya ta haihuwa.\n\n**Sharuɗɗan Gwamna**: Shekaru 35+, aƙalla ilimin makarantar sakandare, ɗan ƙasar Najeriya ta haihuwa.\n\n**Yadda ake farawa**:\n1. Yi rajista tare da jam'iyyar siyasa\n2. Shiga zaɓen farko na jam'iyyar\n3. Idan ka lashe zaɓen farko, jam'iyyarku ta ɗauke ka don zaɓe na gaba ɗaya\n4. Shigar da takardu masu mahimmanci tare da INEC"
+        "ha": "Shiga dimokuradiyya baya tsayawa a zaɓe — za ku iya tsayawa takarar ofishi da kanku.\n\n**Sharuɗɗan tsayawa takarar Majalisar Wakilai**:\n- Dole ne ka zama ɗan ƙasar Najeriya ta haihuwa\n- Dole ne ka kai aƙalla shekara 25\n- Dole ne ka sami aƙalla Takardar Shaida ta Makaranta (WAEC/NECO) ko daidai da ita\n- Dole ne ka zama ɗan jam'iyyar siyasa da aka yi rijista\n- Dole ne jam'iyyar ta ɗauke ka/ta zaɓe ka\n- Dole ne ba ka ƙarƙashin duk wata hana ta doka ba (misali, hukuncin laifi)\n\n**Sharuɗɗan Majalisar Dattawa**: Shekaru 35+, sharuɗɗan ɗan ƙasa da ilimi iri ɗaya.\n\n**Sharuɗɗan Shugaban Ƙasa**: Shekaru 40+, aƙalla ilimin makarantar sakandare, ɗan ƙasar Najeriya ta haihuwa.\n\n**Sharuɗɗan Gwamna**: Shekaru 35+, aƙalla ilimin makarantar sakandare, ɗan ƙasar Najeriya ta haihuwa.\n\n**Yadda ake farawa**:\n1. Yi rijista tare da jam'iyyar siyasa\n2. Shiga zaɓen farko na jam'iyyar\n3. Idan ka lashe zaɓen farko, jam'iyyarku ta ɗauke ka don zaɓe na gaba ɗaya\n4. Shigar da takardu masu mahimmanci tare da INEC"
       },
       "keyFacts": {
         "en": ["House of Representatives: minimum age 25", "Senate: minimum age 35", "President: minimum age 40", "Must be sponsored by a registered political party"],
-        "ha": ["Majalisar Wakilai: mafi ƙarancin shekaru 25", "Majalisar Dattawa: mafi ƙarancin shekaru 35", "Shugaban Kasa: mafi ƙarancin shekaru 40", "Dole ne jam'iyyar siyasa da aka yi rajista ta ɗauke ka"]
+        "ha": ["Majalisar Wakilai: mafi ƙarancin shekaru 25", "Majalisar Dattawa: mafi ƙarancin shekaru 35", "Shugaban Kasa: mafi ƙarancin shekaru 40", "Dole ne jam'iyyar siyasa da aka yi rijista ta ɗauke ka"]
       }
     }
   ]

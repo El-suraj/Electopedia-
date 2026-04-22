@@ -137,7 +137,7 @@ export default function Home() {
           />
           <DeadlineRow
             title={t("home.pvcDeadline")}
-            targetDate= {elections.pvcDeadline}
+            targetDate={elections.pvcDeadline}
             lang={lang}
             t={t}
             isLast
@@ -165,7 +165,7 @@ export default function Home() {
             title={t("home.ctaPrepare")}
             description={
               lang === "ha"
-                ? "Duk abin da kuke buƙata kafin ranar zaɓe — PVC, rajista, da ƙari."
+                ? "Duk abin da kuke buƙata kafin ranar zaɓe — PVC, rijista, da ƙari."
                 : "Everything you need before election day — PVC, registration, and more."
             }
           />
