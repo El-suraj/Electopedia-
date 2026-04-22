@@ -1,8 +1,8 @@
 {
   "elections": {
     "nextElection": "2027-01-16T08:00:00",
-    "registrationDeadline": "2026-08-15T23:59:59",
-    "pvcDeadline": "2026-10-01T23:59:59"
+    "registrationDeadline": "2026-08-01T23:59:59",
+    "pvcDeadline": "2026-11-01T23:59:59"
   },
   "topics": [
     {

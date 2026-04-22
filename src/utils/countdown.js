@@ -2,8 +2,8 @@
  * Calculates the time remaining until a target date.
  * Returns an object with days, hours, minutes, seconds, and a isPast flag.
  */
-export function getTimeRemaining() {
-  const target = new Date("2027-01-16T00:00:00").getTime(); // Election date
+export function getTimeRemaining(targetDateStr) {
+  const target = new Date(targetDateStr).getTime(); // ✅ use input
   const now = Date.now();
   const diff = target - now;
 
@@ -37,16 +37,16 @@ export function getTimeRemaining() {
  * Formats a number with a leading zero if less than 10.
  */
 export function pad(n) {
-  return String(n).padStart(2, '0')
+  return String(n).padStart(2, "0");
 }
 
 /**
  * Returns a human-readable relative label, e.g. "in 45 days"
  */
 export function relativeLabel(targetDateStr) {
-  const { days, isPast } = getTimeRemaining(targetDateStr)
-  if (isPast) return 'Passed'
-  if (days === 0) return 'Today!'
-  if (days === 1) return 'Tomorrow'
-  return `in ${days} days`
+  const { days, isPast } = getTimeRemaining(targetDateStr);
+  if (isPast) return "Passed";
+  if (days === 0) return "Today!";
+  if (days === 1) return "Tomorrow";
+  return `in ${days} days`;
 }
