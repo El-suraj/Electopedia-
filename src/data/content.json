@@ -1,0 +1,170 @@
+{
+  "elections": {
+    "nextElection": "2027-01-16T08:00:00",
+    "registrationDeadline": "2026-10-15T23:59:59",
+    "pvcDeadline": "2027-01-10T23:59:59"
+  },
+  "topics": [
+    {
+      "id": "who_can_vote",
+      "category": "rights",
+      "icon": "🗳️",
+      "color": "green",
+      "lawIds": ["voting_age", "right_to_vote"],
+      "title": {
+        "en": "Who Can Vote?",
+        "ha": "Wane Zai Iya Zaɓe?"
+      },
+      "summary": {
+        "en": "You must be 18 years old and a Nigerian citizen to vote. You also need to be registered and have your Permanent Voter's Card (PVC).",
+        "ha": "Dole ne ka kai shekara 18 kuma ka zama ɗan ƙasar Najeriya don zaɓe. Kuna kuma buƙatar rajistawa da samun Katin Masu Zaɓe na Dindindin (PVC)."
+      },
+      "explanation": {
+        "en": "Voting is a fundamental right for every Nigerian citizen who meets these requirements:\n\n**Age**: You must be at least 18 years old at the time voter registration closes.\n\n**Citizenship**: You must be a Nigerian citizen — either by birth or naturalization.\n\n**Registration**: You must have registered with INEC (Independent National Electoral Commission). Registration is free.\n\n**PVC**: You must collect your Permanent Voter's Card. This is your proof of registration and your ticket to vote.\n\n**Residency**: You vote at the polling unit in the area where you registered, not where you currently live.",
+        "ha": "Zaɓe haƙƙi ne na asali ga kowane ɗan ƙasar Najeriya wanda ya cika waɗannan sharuɗɗa:\n\n**Shekaru**: Dole ne ka kai aƙalla shekara 18 lokacin da rajistar masu zaɓe ta rufe.\n\n**Ɗan ƙasa**: Dole ne ka zama ɗan ƙasar Najeriya — ko ta haihuwa ko ta ɗaukar ƙasa.\n\n**Rajista**: Dole ne ka yi rajista tare da INEC (Hukumar Zaɓen Kasa mai zaman kanta). Rajista kyauta ce.\n\n**PVC**: Dole ne ka karɓi Katin Masu Zaɓe na Dindindin. Wannan shi ne tabbatarwa na rajistarka kuma tikiti naka na zaɓe.\n\n**Mazaunin gida**: Kuna zaɓe a rumfar zaɓe a yankin da kuka yi rajista, ba inda kuke zaune a yanzu ba."
+      },
+      "keyFacts": {
+        "en": ["Minimum age: 18 years", "Must hold a valid PVC", "Registration with INEC is free", "You vote where you registered, not where you live now"],
+        "ha": ["Mafi ƙarancin shekaru: 18", "Dole ka riƙe PVC mai inganci", "Rajista tare da INEC kyauta ce", "Kuna zaɓe inda kuka yi rajista, ba inda kuke zaune yanzu ba"]
+      }
+    },
+    {
+      "id": "secrecy_of_vote",
+      "category": "rights",
+      "icon": "🔒",
+      "color": "blue",
+      "lawIds": ["secrecy_of_ballot"],
+      "title": {
+        "en": "Your Vote is Secret",
+        "ha": "Zaɓenku Na Sirri Ne"
+      },
+      "summary": {
+        "en": "No one — not your employer, family member, or political party — has any right to know how you voted. Your vote is protected by law.",
+        "ha": "Babu wani — ba mai aikin ku, ɗan uwa, ko jam'iyyar siyasa — wanda ke da haƙƙin sanin yadda kuka zaɓa. Zaɓenku doka ta kare shi."
+      },
+      "explanation": {
+        "en": "The secrecy of your ballot is one of the most important protections in Nigerian election law.\n\n**What this means for you**:\n- Nobody can force you to show your ballot\n- Nobody can demand you tell them who you voted for\n- Even election officials are legally bound to protect your vote\n- Your employer cannot penalize you for who you voted for\n\n**What to do if pressured**:\nIf anyone threatens you or tries to buy your vote, report it to INEC officials at your polling unit, security personnel present, or call the INEC hotline.\n\n**Vote buying is a crime**: Accepting money for your vote, or selling your vote, is illegal. Both the buyer and seller can be prosecuted.",
+        "ha": "Sirrin zaɓenku yana ɗaya daga cikin mafi muhimmancin kariya a cikin dokokin zaɓen Najeriya.\n\n**Abin da wannan ke nufi a gare ku**:\n- Babu wanda zai tilasta ka nuna zaɓenka\n- Babu wanda zai buƙaci ka gaya musu wa kuka zaɓa\n- Har ma jami'an zaɓe ana ɗaure su ta doka su kare zaɓenku\n- Mai aikin ku bai iya hukunta ku ba saboda wa kuka zaɓa\n\n**Abin da za a yi idan an matsa ku**:\nIdan wani ya yi muku barazana ko ya yi ƙoƙarin siyan zaɓenku, ranar sa ga jami'an INEC a rumfar zaɓenku, ma'aikatan tsaro da ke nan, ko kira layin INEC.\n\n**Siyan kuri'a laifi ne**: Karɓar kuɗi saboda zaɓenku, ko sayar da zaɓenku, ba bisa doka ba ne. Ana iya gurfanar da masu siya da masu sayarwa."
+      },
+      "keyFacts": {
+        "en": ["Your vote is legally secret", "No one can force you to reveal your vote", "Vote buying is illegal — report it", "Election officials must also protect your secrecy"],
+        "ha": ["Zaɓenku na sirri ne ta doka", "Babu wanda zai tilasta ka bayyana zaɓenku", "Siyan kuri'a haramun ne — ranar sa", "Jami'an zaɓe dole su kare sirrinku"]
+      }
+    },
+    {
+      "id": "get_pvc",
+      "category": "before",
+      "icon": "🪪",
+      "color": "gold",
+      "lawIds": ["voter_card"],
+      "title": {
+        "en": "Get Your PVC",
+        "ha": "Karɓi PVC Naka"
+      },
+      "summary": {
+        "en": "Your Permanent Voter's Card (PVC) is the only document that allows you to vote. Register with INEC and collect your PVC before the deadline.",
+        "ha": "Katin Masu Zaɓe na Dindindin (PVC) shi ne takardar da ta ba ka damar zaɓe. Yi rajista tare da INEC ka karɓi PVC ɗinka kafin ƙarshen lokaci."
+      },
+      "explanation": {
+        "en": "The Permanent Voter's Card (PVC) is your most important document as a voter in Nigeria.\n\n**How to register**:\n1. Visit your nearest INEC office or registration centre\n2. Bring a valid form of ID (birth certificate, national ID, passport, etc.)\n3. Your biometric data (fingerprints and photo) will be captured\n4. You will receive a Temporary Voter's Slip\n5. Return later to collect your PVC\n\n**What if I lost my PVC?**\nVisit any INEC office to request a replacement. You'll need to provide your details and may be re-captured.\n\n**Key deadlines**:\n- Voter registration closes well before election day\n- PVC collection has its own deadline — don't miss it!\n- Check inec.gov.ng for current dates\n\n**Transfer of registration**: If you moved, you can transfer your registration to your new area before the deadline.",
+        "ha": "Katin Masu Zaɓe na Dindindin (PVC) shine takardarka mafi muhimmanci a matsayinka na mai zaɓe a Najeriya.\n\n**Yadda ake rajista**:\n1. Ziyarci ofishin INEC mafi kusa ko cibiyar rajista\n2. Kawo takardar shaida mai inganci (takardar haihuwa, ID ta ƙasa, fasfo, da sauransu)\n3. Za a ɗauko bayananku na biometric (yatsun hannu da hoto)\n4. Za a ba ka Ragar Mai Zaɓe na Wucin Gadi\n5. Koma daga baya don karɓar PVC ɗinka\n\n**Idan na rasa PVC na?**\nZiyarci ofishin INEC duk inda yake don neman maye gurbi. Za ka buƙaci bayar da bayananku kuma ana iya sake ɗaukar ku.\n\n**Ƙarshen lokaci masu muhimmanci**:\n- Rajistar masu zaɓe tana rufe da kyau kafin ranar zaɓe\n- Karɓar PVC yana da ƙarshen lokaci nasa — kada ka rasa shi!\n- Bincika inec.gov.ng don kwanakin yanzu\n\n**Canja rajista**: Idan ka koma, za ka iya canja rajistarku zuwa yankin sabon ka kafin ƙarshen lokaci."
+      },
+      "keyFacts": {
+        "en": ["PVC is mandatory to vote — no exceptions", "Registration with INEC is completely free", "Lost PVC can be replaced at any INEC office", "Registration transfers are allowed before deadlines"],
+        "ha": ["PVC tilas ne don zaɓe — babu keɓancewar", "Rajista tare da INEC kyauta ce gaba ɗaya", "Ana iya maye gurbin PVC da aka rasa a kowane ofishin INEC", "Ana ba da izinin canja rajista kafin ƙarshen lokaci"]
+      }
+    },
+    {
+      "id": "on_election_day",
+      "category": "election_day",
+      "icon": "📋",
+      "color": "green",
+      "lawIds": ["right_to_vote", "intimidation"],
+      "title": {
+        "en": "What Happens on Election Day",
+        "ha": "Abin da Ke Faruwa a Ranar Zaɓe"
+      },
+      "summary": {
+        "en": "Know the process before you go. Bring your PVC, join the queue, verify your identity, collect your ballot, mark it, and deposit it. Simple.",
+        "ha": "San tsarin kafin ka tafi. Kawo PVC ɗinka, shiga layi, tabbatar da shaida, karɓar ƙuris, alamta shi, ka saka shi. Sauƙi."
+      },
+      "explanation": {
+        "en": "Here is what to expect on election day, step by step:\n\n**Before leaving home**:\n- Check your polling unit location on the INEC Voter Enrolment Details Verification portal\n- Bring your PVC — this is mandatory\n- Polls typically open at 8:30 AM and close at 2:30 PM\n\n**At the polling unit**:\n1. Join the queue at your assigned polling unit\n2. INEC officials will verify your PVC using the Bimodal Voter Accreditation System (BVAS)\n3. Your fingerprint will be scanned against your voter card\n4. Once verified, you receive your ballot paper\n\n**Voting**:\n- Go to the voting cubicle for privacy\n- Mark your preferred candidate with a thumbprint in the box\n- Only mark ONE candidate per election\n- Fold your ballot and deposit it in the ballot box\n\n**If there are problems**:\n- You have the right to ask questions from INEC officials\n- You can refuse to vote if you feel unsafe — but do not be intimidated\n- Threatening behaviour by anyone is illegal and should be reported",
+        "ha": "Ga abin da ake tsammani a ranar zaɓe, mataki da mataki:\n\n**Kafin fita gida**:\n- Bincika wurin rumfar zaɓenku a tashar INEC Voter Enrolment Details Verification\n- Kawo PVC ɗinka — wannan tilas ne\n- Zaɓe yawanci yana buɗewa da 8:30 na safe ya rufe da 2:30 na yamma\n\n**A rumfar zaɓe**:\n1. Shiga layi a rumfar zaɓe da aka ba ka\n2. Jami'an INEC za su tabbatar da PVC ɗinka ta amfani da Tsarin Tabbatar da Masu Zaɓe na Bimodal (BVAS)\n3. Za a duba yatsun hannu ɗinka a kan katin zaɓe ɗinka\n4. Da zarar an tabbatar, za a ba ka takardark zaɓe\n\n**Zaɓe**:\n- Je rumfar zaɓe don sirri\n- Alamta ɗan takarar da kuke so da yatsar hannu a cikin akwatin\n- Alamta ɗan takara ɗaya kawai a kowace zaɓe\n- Ninka zaɓe ɗinka ka saka shi a cikin akwatin zaɓe\n\n**Idan akwai matsaloli**:\n- Kana da haƙƙin tambayar jami'an INEC\n- Zaka iya ƙin zaɓe idan ka ji ba ka da aminci — amma kada a tsorata ka\n- Halayen barazana daga kowa haramun ne kuma ya kamata a ranar sa"
+      },
+      "keyFacts": {
+        "en": ["Polls open 8:30 AM, close 2:30 PM", "BVAS machine verifies your fingerprint", "Mark only ONE candidate per ballot", "Intimidation at polling units is a criminal offence"],
+        "ha": ["Zaɓe yana buɗewa 8:30 na safe, rufe 2:30 na yamma", "Na'urar BVAS tana tabbatar da yatsunka", "Alamta ɗan takara ɗaya kawai a kowace ƙuris", "Tsoratarwa a rumfar zaɓe laifi ne na masu laifi"]
+      }
+    },
+    {
+      "id": "protection_from_intimidation",
+      "category": "rights",
+      "icon": "🛡️",
+      "color": "red",
+      "lawIds": ["intimidation"],
+      "title": {
+        "en": "Protection from Intimidation",
+        "ha": "Kariya Daga Tsoratarwa"
+      },
+      "summary": {
+        "en": "No one can force you to vote a certain way, threaten you, or offer you money for your vote. These are serious crimes under Nigerian law.",
+        "ha": "Babu wanda zai iya tilasta ka zaɓa ta wata hanya, yi maka barazana, ko ba ka kuɗi saboda zaɓenku. Waɗannan laifuka ne masu tsanani a ƙarƙashin dokokin Najeriya."
+      },
+      "explanation": {
+        "en": "Nigerian law strongly protects voters from any form of pressure, threats, or inducement.\n\n**What counts as intimidation (and is illegal)**:\n- Threatening violence if you don't vote a certain way\n- Offering money, food, gifts, or favours for your vote\n- Using spiritual threats or claims to influence your vote\n- Following you to the polling unit to \"watch\" how you vote\n- Blocking you from reaching your polling unit\n\n**Penalties for vote buying and intimidation**:\nPerpetrators face up to ₦500,000 fine OR up to 3 years in prison, or both.\n\n**What you should do**:\n1. Do not accept money or gifts in exchange for your vote\n2. Report intimidation to INEC officials or security agents at the polling unit\n3. Contact INEC's situation room or any accredited civil society organisation\n4. You can also call the Nigerian Police Force\n\n**Remember**: You have the right to vote freely. No job, relationship, or gift is worth your vote.",
+        "ha": "Dokar Najeriya tana kare masu zaɓe da ƙarfi daga kowane irin matsi, barazana, ko ƙarfafawa.\n\n**Abin da ke ɗauke da tsoratarwa (kuma haramun ne)**:\n- Yin barazanar tashin hankali idan ka zaɓa ta wata hanya\n- Ba da kuɗi, abinci, kyaututtuka, ko alherai saboda zaɓenku\n- Amfani da barazanar ruhaniya ko da'awa don rinjayar zaɓenku\n- Bin ka zuwa rumfar zaɓe don \"kallo\" yadda kake zaɓa\n- Toshe ka daga isa rumfar zaɓe ɗinka\n\n**Hukunci don siyan kuri'a da tsoratarwa**:\nMasu aikata laifi suna fuskantar tarar har ₦500,000 KO har ɗauri na shekara 3, ko duka biyun.\n\n**Abin da ya kamata ka yi**:\n1. Kar ka karɓi kuɗi ko kyaututtuka a musanya da zaɓenku\n2. Ranar tsoratarwa ga jami'an INEC ko wakilan tsaro a rumfar zaɓe\n3. Tuntuɓi ɗakin yanayi na INEC ko kowane ƙungiyar farar hula da aka amince da ita\n4. Kuna kuma iya kiran Sojojin 'Yan Sanda na Najeriya\n\n**Tuna**: Kana da haƙƙin zaɓe kyauta. Babu aiki, dangantaka, ko kyauta da ta fi darajar zaɓenku."
+      },
+      "keyFacts": {
+        "en": ["Violence threats are illegal", "Vote buying carries ₦500,000 fine or 3 years imprisonment", "You can report intimidation to INEC or police", "Spiritual threats used to influence votes are also illegal"],
+        "ha": ["Barazanar tashin hankali haramun ne", "Siyan kuri'a yana ɗauke da tarar ₦500,000 ko ɗauri na shekara 3", "Zaka iya ranar sa tsoratarwa ga INEC ko 'yan sanda", "Barazanar ruhaniya da ake amfani da su don rinjayar zaɓe haramun ne"]
+      }
+    },
+    {
+      "id": "after_voting",
+      "category": "after",
+      "icon": "📊",
+      "color": "purple",
+      "lawIds": ["result_collation", "election_tribunal"],
+      "title": {
+        "en": "After You Vote: Results & Accountability",
+        "ha": "Bayan Zaɓe: Sakamakon & Ɗaukar Nauyi"
+      },
+      "summary": {
+        "en": "After voting closes, your polling agents and the public can observe counting. Results are announced publicly. If there's fraud, you have legal options.",
+        "ha": "Bayan zaɓe ya rufe, wakilan jam'iyyarku da jama'a za su iya lura da ƙidaya. Ana sanar da sakamakon a bainar jama'a. Idan akwai zamba, kuna da zaɓuɓɓukan doka."
+      },
+      "explanation": {
+        "en": "The election process doesn't end when you cast your ballot. Here's what happens after:\n\n**At your polling unit**:\n- After polls close, votes are counted publicly at the polling unit\n- Results are announced and written on official INEC forms (Form EC8A)\n- Copies of signed results are given to all party agents present\n- Results are uploaded to the INEC result portal in real time\n\n**Collation process**:\n- Results move from polling unit → ward collation → LGA collation → State → National\n- Agents of political parties monitor at every level\n- Any irregularities should be noted in the official record\n\n**If you believe results were manipulated**:\n1. An election petition can be filed within 21 days of the declaration of results\n2. Petitions are heard by Election Tribunals, not regular courts\n3. You need evidence — not just suspicion\n4. Political parties or candidates can file petitions\n\n**Your role**: Stay informed. Share verified information. Avoid spreading rumours. The integrity of elections depends on an informed and vigilant citizenry.",
+        "ha": "Tsarin zaɓe bai ƙare ba lokacin da kuka jefa ƙurisar. Ga abin da ke faruwa bayan haka:\n\n**A rumfar zaɓe ɗinka**:\n- Bayan zaɓe ya rufe, ana ƙidaya kuri'u a bainar jama'a a rumfar zaɓe\n- Ana sanar da sakamakon kuma ana rubuta su a kan takardar INEC ta hukuma (Form EC8A)\n- Ana ba da kwafin sakamakon da aka sanya hannu ga duk wakilan jam'iyya da ke nan\n- Ana loda sakamakon zuwa tashar sakamakon INEC a lokaci guda\n\n**Tsarin tattara sakamakon**:\n- Sakamakon yana tafiya daga rumfar zaɓe → tattara bakin unguwa → tattara LGA → Jiha → Ƙasa\n- Wakilan jam'iyyun siyasa suna sa ido a kowane matakin\n- Ya kamata a lura da duk wani rashin daidaituwa a cikin rikodin hukuma\n\n**Idan kun yi imani an yi magudi da sakamakon**:\n1. Ana iya shigar da roƙon zaɓe a cikin kwana 21 bayan sanar da sakamakon\n2. Kwamitin zaɓe ne ke sauraren roƙon, ba kotunan yau da kullun ba\n3. Kuna buƙatar shaidar — ba zargi kawai ba\n4. Jam'iyyun siyasa ko ɗan takara na iya shigar da roƙon\n\n**Rawarku**: Kasance da labari. Raba bayanai masu tabbaci. Guje wa yaɗa jita-jita. Mutuncin zaɓe ya dogara ne a kan ɗan ƙasa mai sani da ido buɗe."
+      },
+      "keyFacts": {
+        "en": ["Counting happens publicly at the polling unit", "All party agents receive signed result copies", "Election petition window: 21 days after results", "Results are uploaded to INEC portal in real time"],
+        "ha": ["Ƙidaya tana faruwa a bainar jama'a a rumfar zaɓe", "Duk wakilan jam'iyya suna karɓar kwafin sakamakon da aka sanya hannu", "Lokacin roƙon zaɓe: kwana 21 bayan sakamakon", "Ana loda sakamakon zuwa tashar INEC a lokaci guda"]
+      }
+    },
+    {
+      "id": "can_i_run",
+      "category": "rights",
+      "icon": "🏛️",
+      "color": "gold",
+      "lawIds": ["candidacy_requirements"],
+      "title": {
+        "en": "Can I Run for Office?",
+        "ha": "Zan Iya Tsayawa Takarar Ofishi?"
+      },
+      "summary": {
+        "en": "Any Nigerian citizen can run for elected office if they meet the age, education, and citizenship requirements. Here's what you need to know.",
+        "ha": "Duk ɗan ƙasar Najeriya zai iya tsayawa takarar ofishin da aka zaɓa idan ya cika sharuɗɗan shekaru, ilimi, da ɗan ƙasa. Ga abin da kuke buƙatar sani."
+      },
+      "explanation": {
+        "en": "Participating in democracy doesn't stop at voting — you can also run for office yourself.\n\n**Requirements to run for the House of Representatives**:\n- Must be a Nigerian citizen by birth\n- Must be at least 25 years old\n- Must have a minimum of School Certificate (WAEC/NECO) or equivalent\n- Must be a registered member of a political party\n- Must be sponsored/nominated by that party\n- Must not be under any legal disqualification (e.g., criminal conviction)\n\n**Requirements for Senate**: Age 35+, same citizenship and education requirements.\n\n**Requirements for President**: Age 40+, secondary school education minimum, Nigerian citizen by birth.\n\n**Requirements for Governor**: Age 35+, secondary school education minimum, Nigerian citizen by birth.\n\n**How to start**:\n1. Register with a political party\n2. Contest the party's primary election\n3. If you win the primary, your party sponsors you for the general election\n4. File necessary forms with INEC",
+        "ha": "Shiga dimokuradiyya baya tsayawa a zaɓe — za ku iya tsayawa takarar ofishi da kanku.\n\n**Sharuɗɗan tsayawa takarar Majalisar Wakilai**:\n- Dole ne ka zama ɗan ƙasar Najeriya ta haihuwa\n- Dole ne ka kai aƙalla shekara 25\n- Dole ne ka sami aƙalla Takardar Shaida ta Makaranta (WAEC/NECO) ko daidai da ita\n- Dole ne ka zama ɗan jam'iyyar siyasa da aka yi rajista\n- Dole ne jam'iyyar ta ɗauke ka/ta zaɓe ka\n- Dole ne ba ka ƙarƙashin duk wata hana ta doka ba (misali, hukuncin laifi)\n\n**Sharuɗɗan Majalisar Dattawa**: Shekaru 35+, sharuɗɗan ɗan ƙasa da ilimi iri ɗaya.\n\n**Sharuɗɗan Shugaban Ƙasa**: Shekaru 40+, aƙalla ilimin makarantar sakandare, ɗan ƙasar Najeriya ta haihuwa.\n\n**Sharuɗɗan Gwamna**: Shekaru 35+, aƙalla ilimin makarantar sakandare, ɗan ƙasar Najeriya ta haihuwa.\n\n**Yadda ake farawa**:\n1. Yi rajista tare da jam'iyyar siyasa\n2. Shiga zaɓen farko na jam'iyyar\n3. Idan ka lashe zaɓen farko, jam'iyyarku ta ɗauke ka don zaɓe na gaba ɗaya\n4. Shigar da takardu masu mahimmanci tare da INEC"
+      },
+      "keyFacts": {
+        "en": ["House of Representatives: minimum age 25", "Senate: minimum age 35", "President: minimum age 40", "Must be sponsored by a registered political party"],
+        "ha": ["Majalisar Wakilai: mafi ƙarancin shekaru 25", "Majalisar Dattawa: mafi ƙarancin shekaru 35", "Shugaban Kasa: mafi ƙarancin shekaru 40", "Dole ne jam'iyyar siyasa da aka yi rajista ta ɗauke ka"]
+      }
+    }
+  ]
+}
