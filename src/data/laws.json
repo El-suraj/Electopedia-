@@ -1,0 +1,83 @@
+{
+  "voting_age": {
+    "id": "voting_age",
+    "section": "Section 77(2)",
+    "act": "Constitution of the Federal Republic of Nigeria, 1999",
+    "shortTitle": "Voting Age Requirement",
+    "fullText": "Every citizen of Nigeria, who has attained the age of eighteen years residing in Nigeria at the time of the registration of voters for purposes of election to a legislative house, shall be entitled to be registered as a voter for that election.",
+    "highlights": ["eighteen years", "citizen of Nigeria", "entitled to be registered"],
+    "url": "https://www.constituteproject.org/constitution/Nigeria_2011.pdf"
+  },
+  "right_to_vote": {
+    "id": "right_to_vote",
+    "section": "Section 78",
+    "act": "Constitution of the Federal Republic of Nigeria, 1999",
+    "shortTitle": "Right to Vote",
+    "fullText": "Subject to the provisions of this Constitution, every registered voter at an election to a legislative house shall have the right to a vote in that election, and such vote shall be cast at the polling unit nearest to his place of residence as may be prescribed by the Independent National Electoral Commission.",
+    "highlights": ["every registered voter", "right to a vote", "nearest to his place of residence"],
+    "url": "https://www.constituteproject.org/constitution/Nigeria_2011.pdf"
+  },
+  "secrecy_of_ballot": {
+    "id": "secrecy_of_ballot",
+    "section": "Section 155",
+    "act": "Electoral Act, 2022",
+    "shortTitle": "Secrecy of Ballot",
+    "fullText": "Every person who votes at an election shall keep secret the nature of his vote, and the votes cast by any person at an election shall be kept secret by all persons who have any concern with the conduct of the election or the counting of votes.",
+    "highlights": ["keep secret", "votes cast", "kept secret by all persons"],
+    "url": "https://www.inec.gov.ng/wp-content/uploads/2022/02/Electoral-Act-2022-signed.pdf"
+  },
+  "voter_card": {
+    "id": "voter_card",
+    "section": "Section 9",
+    "act": "Electoral Act, 2022",
+    "shortTitle": "Voter Registration & PVC",
+    "fullText": "The Commission shall compile, maintain and update on a continuous basis, a National Register of Voters which shall include the names of all persons entitled to vote in any Federal, State or Local Government election. The National Register of Voters shall be in such form as the Commission shall from time to time prescribe. Any person who has registered as a voter shall be issued with a Voter's Card by the Commission, and no person shall vote unless he or she presents the voter's card issued to him or her.",
+    "highlights": ["registered as a voter", "issued with a Voter's Card", "no person shall vote unless"],
+    "url": "https://www.inec.gov.ng/wp-content/uploads/2022/02/Electoral-Act-2022-signed.pdf"
+  },
+  "intimidation": {
+    "id": "intimidation",
+    "section": "Section 128",
+    "act": "Electoral Act, 2022",
+    "shortTitle": "Protection from Intimidation",
+    "fullText": "A person who, at an election— (a) uses or threatens to use force, violence or restraint upon or against any person; (b) inflicts or threatens to inflict by himself or by any other person, any temporal or spiritual injury, damage, harm or loss upon or against any person in order to induce or compel that person to vote or refrain from voting, or on account of such person having voted or refrained from voting, shall be guilty of an offence and liable on conviction to a fine of not more than N500,000 or imprisonment for a term of not more than three years or both.",
+    "highlights": ["force, violence or restraint", "guilty of an offence", "N500,000 or imprisonment"],
+    "url": "https://www.inec.gov.ng/wp-content/uploads/2022/02/Electoral-Act-2022-signed.pdf"
+  },
+  "result_collation": {
+    "id": "result_collation",
+    "section": "Section 64",
+    "act": "Electoral Act, 2022",
+    "shortTitle": "Results and Collation",
+    "fullText": "The presiding officer shall, after recording the result of the poll in the prescribed manner, give to each candidate or his polling agent and the security agent a copy of the result duly signed. Subject to Section 65 of this Act, where in any election there is only one candidate or only one political party that sponsored a candidate in the election, that candidate shall be returned elected.",
+    "highlights": ["give to each candidate", "copy of the result duly signed", "returned elected"],
+    "url": "https://www.inec.gov.ng/wp-content/uploads/2022/02/Electoral-Act-2022-signed.pdf"
+  },
+  "observe_election": {
+    "id": "observe_election",
+    "section": "Section 12",
+    "act": "Electoral Act, 2022",
+    "shortTitle": "Election Observers",
+    "fullText": "The Commission may accredit persons or groups of persons to observe, monitor or cover elections conducted by it under this Act. The Commission shall prescribe guidelines for the accreditation of domestic and international observers, political party agents, and media practitioners who wish to participate in the accreditation process. No unaccredited person shall observe, monitor or cover elections conducted by the Commission.",
+    "highlights": ["accredit persons", "observe, monitor or cover", "domestic and international observers"],
+    "url": "https://www.inec.gov.ng/wp-content/uploads/2022/02/Electoral-Act-2022-signed.pdf"
+  },
+  "election_tribunal": {
+    "id": "election_tribunal",
+    "section": "Section 133",
+    "act": "Electoral Act, 2022",
+    "shortTitle": "Election Petitions",
+    "fullText": "No election and return at an election under this Act shall be questioned in any manner other than by a petition complaining of an undue election or undue return (in this Act referred to as an election petition) presented to the competent tribunal or court in accordance with the provisions of the Constitution or of this Act, and in which the person whose election or return is complained of is joined as a party.",
+    "highlights": ["election petition", "competent tribunal or court", "joined as a party"],
+    "url": "https://www.inec.gov.ng/wp-content/uploads/2022/02/Electoral-Act-2022-signed.pdf"
+  },
+  "candidacy_requirements": {
+    "id": "candidacy_requirements",
+    "section": "Section 65",
+    "act": "Constitution of the Federal Republic of Nigeria, 1999",
+    "shortTitle": "Qualification for Election",
+    "fullText": "Subject to the provisions of section 66 of this Constitution, a person shall be qualified for election as a member of the House of Representatives if— (a) he is a citizen of Nigeria by birth; (b) he has attained the age of twenty-five years; (c) he has been educated up to at least School Certificate level or its equivalent; and (d) he is a member of a political party and is sponsored by that political party.",
+    "highlights": ["citizen of Nigeria by birth", "twenty-five years", "School Certificate level", "member of a political party"],
+    "url": "https://www.constituteproject.org/constitution/Nigeria_2011.pdf"
+  }
+}

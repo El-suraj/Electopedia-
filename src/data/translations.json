@@ -1,0 +1,122 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "learn": "Learn",
+      "settings": "Settings"
+    },
+    "home": {
+      "tagline": "Know Your Rights. Count the Days. Understand the Law.",
+      "nextElection": "Next General Election",
+      "registrationDeadline": "Voter Registration Deadline",
+      "pvcDeadline": "PVC Collection Deadline",
+      "days": "Days",
+      "hours": "Hours",
+      "mins": "Mins",
+      "secs": "Secs",
+      "ctaRights": "Know Your Rights",
+      "ctaPrepare": "Prepare for Election",
+      "ctaLearn": "Explore All Topics",
+      "pastElection": "Election has passed",
+      "deadlinePassed": "Deadline has passed"
+    },
+    "learn": {
+      "title": "Civic Education",
+      "subtitle": "Everything you need to know about elections in Nigeria — in plain language, backed by law.",
+      "readMore": "Read more",
+      "categories": {
+        "rights": "Know Your Rights",
+        "before": "Before the Election",
+        "election_day": "On Election Day",
+        "after": "After Voting"
+      }
+    },
+    "topic": {
+      "lawRef": "Legal Reference",
+      "viewSource": "View Full Law",
+      "hideSource": "Hide Full Law",
+      "keyFacts": "Key Facts",
+      "backToLearn": "← Back to Topics"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "about": "About This App",
+      "aboutText": "CivicNG is a non-partisan civic education tool designed to help Nigerians understand their electoral rights and obligations. All legal references are drawn from the Nigerian Constitution and the Electoral Act.",
+      "disclaimer": "Disclaimer",
+      "disclaimerText": "This app provides general civic information. For legal advice, consult a qualified lawyer. For official electoral information, visit INEC at inec.gov.ng.",
+      "version": "Version 1.0.0"
+    },
+    "law": {
+      "source": "Source",
+      "section": "Section",
+      "act": "Act",
+      "constitution": "Constitution of the Federal Republic of Nigeria, 1999"
+    },
+    "install": {
+      "prompt": "Add CivicNG to your home screen for offline access",
+      "install": "Install App",
+      "dismiss": "Not now"
+    }
+  },
+  "ha": {
+    "nav": {
+      "home": "Gida",
+      "learn": "Koyo",
+      "settings": "Saiti"
+    },
+    "home": {
+      "tagline": "San Haƙƙinku. Ƙidaya Kwanakin. Fahimci Doka.",
+      "nextElection": "Zaɓen Gaba",
+      "registrationDeadline": "Ƙarshen Rajistar Masu Zaɓe",
+      "pvcDeadline": "Ƙarshen Karɓar PVC",
+      "days": "Kwanaki",
+      "hours": "Awowi",
+      "mins": "Minti",
+      "secs": "Dakika",
+      "ctaRights": "San Haƙƙinka",
+      "ctaPrepare": "Yi Shiri don Zaɓe",
+      "ctaLearn": "Duba Duk Batutuwan",
+      "pastElection": "Zaɓen ya wuce",
+      "deadlinePassed": "Lokacin ya wuce"
+    },
+    "learn": {
+      "title": "Ilimin Farar Hula",
+      "subtitle": "Duk abin da kuke buƙata game da zaɓen Najeriya — cikin harshe mai sauƙi, tare da goyan bayan doka.",
+      "readMore": "Karanta ƙari",
+      "categories": {
+        "rights": "San Haƙƙinku",
+        "before": "Kafin Zaɓe",
+        "election_day": "A Ranar Zaɓe",
+        "after": "Bayan Zaɓe"
+      }
+    },
+    "topic": {
+      "lawRef": "Nassosi na Doka",
+      "viewSource": "Duba Dokar Cikakke",
+      "hideSource": "Rufe Dokar Cikakke",
+      "keyFacts": "Bayanai Masu Muhimmanci",
+      "backToLearn": "← Koma Batutuwa"
+    },
+    "settings": {
+      "title": "Saiti",
+      "language": "Harshe",
+      "about": "Game da Wannan App",
+      "aboutText": "CivicNG kayan aikin ilimin farar hula ne wanda ba ya son ɓangare ɗaya, wanda aka ƙera don taimaka wa Nijeriyawa su fahimci haƙƙoƙin zaɓe da wajibacinsu. Duk nassosi na doka an ɗauko su daga Kundin Tsarin Mulki na Najeriya da Dokar Zaɓe.",
+      "disclaimer": "Ƙararrawa",
+      "disclaimerText": "Wannan app yana ba da bayanai na gaba ɗaya game da farar hula. Don shawara ta doka, tuntuɓi lauya mai cancantar. Don bayanin zaɓe na hukuma, ziyarci INEC a inec.gov.ng.",
+      "version": "Sigar 1.0.0"
+    },
+    "law": {
+      "source": "Tushe",
+      "section": "Sashe",
+      "act": "Doka",
+      "constitution": "Kundin Tsarin Mulki na Tarayyar Najeriya, 1999"
+    },
+    "install": {
+      "prompt": "Ƙara CivicNG zuwa allon gida don amfani offline",
+      "install": "Shigar da App",
+      "dismiss": "Ba yanzu ba"
+    }
+  }
+}

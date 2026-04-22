@@ -1,0 +1,22 @@
+{
+  "name": "CivicNG — Nigeria Election App",
+  "short_name": "CivicNG",
+  "description": "Election countdown, civic education, and legal transparency for Nigerian voters.",
+  "theme_color": "#008751",
+  "background_color": "#0D1117",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "government", "utilities"],
+  "lang": "en-NG",
+  "dir": "ltr"
+}
