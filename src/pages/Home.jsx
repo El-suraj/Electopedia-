@@ -154,7 +154,7 @@ export default function Home() {
             title={t("home.ctaRights")}
             description={
               lang === "ha"
-                ? "Koyi game da haƙƙinku na doka a matsayinka na ɗan zaɓe na Najeriya."
+                ? "Kasan haƙƙoƙinka a matsayinka na mai zaɓe a Najeriya."
                 : "Learn about your legal rights as a Nigerian voter."
             }
             accent
@@ -180,7 +180,7 @@ export default function Home() {
         <div className="flex flex-wrap gap-2">
           <TopicPill
             icon="🗳️"
-            label={lang === "ha" ? "Wane zai zaɓe?" : "Who can vote?"}
+            label={lang === "ha" ? "Wa zai iya zaɓe?" : "Who can vote?"}
             to="/topic/who_can_vote"
             color="green"
           />
@@ -198,13 +198,13 @@ export default function Home() {
           />
           <TopicPill
             icon="🛡️"
-            label={lang === "ha" ? "Kariya" : "Against intimidation"}
+            label={lang === "ha" ? "Kariya daga Cin Zarafi" : "Against intimidation"}
             to="/topic/protection_from_intimidation"
             color="slate"
           />
           <TopicPill
             icon="📊"
-            label={lang === "ha" ? "Sakamakon" : "After voting"}
+            label={lang === "ha" ? "Sakamako Bayan Kada Kuri'a" : "After voting"}
             to="/topic/after_voting"
             color="slate"
           />
