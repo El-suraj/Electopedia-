@@ -9,7 +9,9 @@
       "tagline": "Know Your Rights. Count the Days. Understand the Law.",
       "nextElection": "Next General Election",
       "registrationDeadline": "Voter Registration Deadline",
+      "pvcCollectionStart": "PVC Collection Start",
       "pvcDeadline": "PVC Collection Deadline",
+      "VoterRegistrationDeadline": "Voter Registration Deadline",
       "days": "Days",
       "hours": "Hours",
       "mins": "Mins",
@@ -18,6 +20,7 @@
       "ctaPrepare": "Prepare for Election",
       "ctaLearn": "Explore All Topics",
       "pastElection": "Election has passed",
+      "registrationClosed": "Voter registration is closed",
       "deadlinePassed": "Deadline has passed"
     },
     "learn": {
@@ -78,6 +81,7 @@
       "ctaPrepare": "Yi Shiri don Zaɓe",
       "ctaLearn": "Duba Duk Batutuwan",
       "pastElection": "Zaɓen ya wuce",
+      "registrationClosed": "An Rufe Rijistar masu zaɓe",
       "deadlinePassed": "Lokacin ya wuce"
     },
     "learn": {

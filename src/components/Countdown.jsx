@@ -65,7 +65,7 @@ export default function Countdown({ targetDate, title, variant = 'primary' }) {
     return (
       <div className="text-center py-4">
         <p className="text-ink-400 font-body text-sm">{title}</p>
-        <p className="text-forest-700 font-display text-lg mt-1">{t('home.pastElection')}</p>
+        <p className="text-forest-700 font-display text-lg mt-1">{t('home.registrationClosed')}</p>
       </div>
     )
   }

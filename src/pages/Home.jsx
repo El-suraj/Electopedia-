@@ -130,18 +130,19 @@ export default function Home() {
       <div className="px-4 -mt-4 anim-4">
         <div className="bg-surface-card rounded-2xl border border-surface-border shadow-card px-5 divide-y-0">
           <DeadlineRow
-            title={t("home.registrationDeadline")}
-            targetDate={elections.registrationDeadline}
+            title={t("home.VoterRegistrationDeadline")}
+            targetDate={elections.registrationClosed}
             lang={lang}
             t={t}
           />
           <DeadlineRow
-            title={t("home.pvcDeadline")}
-            targetDate={elections.pvcDeadline}
+            title={t("home.pvcCollectionStart")}
+            targetDate={elections.pvcCollectionStart}
             lang={lang}
             t={t}
             isLast
           />
+
         </div>
       </div>
 
